@@ -13,7 +13,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
 }
-header {
+.header {
         background-color: rgb(243, 237, 230);
 }
 .container {
@@ -45,4 +45,13 @@ header {
 }
 .section {
     width: 50%;
+}
+.footer {background-color: rgb(243, 237, 230);}
+.logo {
+    width: 50px;
+    height: 50px;
+}
+.avatar {
+    width: 50px;
+    height: 50px;
 }
