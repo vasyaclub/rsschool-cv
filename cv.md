@@ -11,7 +11,7 @@
 ## Skills
 * HTML
 * CSS
-* Git
+* Git/GitHub
 ## Code
 ```
 const func = (a, b) => {
@@ -23,5 +23,6 @@ func(1, 2);
 * https://vasyaclub.github.io/cssMemeSlider/index.html
 ## Educations
 * Belarusian State University, Physical faculty
-## English
-* A1
+## Languages
+* Russian - native speaker
+* English - A1
